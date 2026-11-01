@@ -17,7 +17,9 @@
 
 数据默认保存在当前目录的 `.vjms/`，不会自动上传。首次安装依赖需要联网；正常使用不需要下载外部模型、分词器或网页资源。
 
-![vjms 真实训练观测界面](docs/training.png)
+![vjms 工作台首页](docs/overview.jpg)
+
+![vjms 真实训练观测界面](docs/training.jpg)
 
 ## 快速开始
 
